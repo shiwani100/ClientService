@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:59bad30613280f00cb92b7a66144b078</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-08-16 20:26:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4486b97e13608f00cb92b7a66144b002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent_entity</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4486b97e13608f00cb92b7a66144b002</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-08-16 20:26:32</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Unlisted Entity">93e5317e13608f00cb92b7a66144b052</ui_policy>
+        <variable>parent_entity</variable>
+        <variable_set display_value="Customer Authorization and Creation">c50c03ca13e40f00cb92b7a66144b09e</variable_set>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

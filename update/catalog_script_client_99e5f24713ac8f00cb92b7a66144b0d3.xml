@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_to>item</applies_to>
+        <cat_item display_value="New Customer">c56c3f1613e04f00cb92b7a66144b0e0</cat_item>
+        <cat_variable>IO:6550778213680f00cb92b7a66144b0b6</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>Auto-fill Billing Info</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+	//Auto-fills in the billing information if it should be the same as the customer information
+	if (newValue == 'true') {
+		g_form.setValue('billing_customer_name',g_form.getValue('customer_name'));
+		g_form.setValue('billing_address',g_form.getValue('address'));
+		g_form.setValue('billing_city',g_form.getValue('city'));
+		g_form.setValue('billing_state',g_form.getValue('stat'));
+		g_form.setValue('billing_zip',g_form.getValue('zip'));
+		g_form.setValue('billing_contact_name',g_form.getValue('contact_name'));
+		g_form.setValue('billing_contact_phone',g_form.getValue('contact_phone'));
+		g_form.setValue('billing_fax',g_form.getValue('contact_fax'));
+	} else {
+		g_form.setValue('billing_customer_name','');
+		g_form.setValue('billing_address','');
+		g_form.setValue('billing_city','');
+		g_form.setValue('billing_state','');
+		g_form.setValue('billing_zip','');
+		g_form.setValue('billing_contact_name','');
+		g_form.setValue('billing_contact_phone','');
+		g_form.setValue('billing_fax','');
+	}
+		
+		
+
+   
+   
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-08-17 19:50:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>99e5f24713ac8f00cb92b7a66144b0d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Auto-fill Billing Info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>catalog_script_client_99e5f24713ac8f00cb92b7a66144b0d3</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-09-13 13:08:48</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

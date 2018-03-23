@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>false</active>
+        <api_name>x_ahho_client_srvs.Manufacturerautopopulate</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>Manufacturerautopopulate</name>
+        <script><![CDATA[var Manufacturerautopopulate = Class.create();
+Manufacturerautopopulate.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+manufacturerautopopulate: function() {
+	var manufacture;
+	var sysid;
+	    var model = this.getParameter('sysparm_model');
+		var gr1 = new GlideRecord('u_rsq_model');
+		gr1.addQuery('sys_id', model);
+		gr1.query();
+		if (gr1.next())
+			//query vendor name for sysid passed from client script
+			 sysid = gr1.u_manufacturer;
+	
+	var gr2 = new GlideRecord('core_company');
+	gr2.addQuery('sys_id', manufacture);
+		gr2.query();
+	if (gr2.next())
+		manufacture = gr2.name;
+		        return manufacture;
+	
+},
+    type: 'Manufacturerautopopulate'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-09-05 22:43:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e0d4d95d13c98700d80074c66144b045</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>Manufacturerautopopulate</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sys_script_include_e0d4d95d13c98700d80074c66144b045</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-09-07 18:16:49</sys_updated_on>
+    </sys_script_include>
+</record_update>

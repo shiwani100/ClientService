@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_ap_invoices" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>c130b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>0530b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>4530b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>8530b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>c530b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>0930b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_ci.sys_class_name</element>
+            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d30b1044f41164064dd0f1f0310c7a1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>amKatulak</sys_created_by>
+            <sys_created_on>2016-01-14 14:53:24</sys_created_on>
+            <sys_id>4930b1044f41164064dd0f1f0310c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amKatulak</sys_updated_by>
+            <sys_updated_on>2016-01-14 14:53:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_ap_invoices</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-21 21:03:24</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>3e7317a7db98978462f158a8dc961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_ap_invoices</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_list_u_ap_invoices_null</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-21 21:03:24</sys_updated_on>
+            <sys_user display_value="Shiwani Upadhyay">805c59064fa30a4064dd0f1f0310c74a</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

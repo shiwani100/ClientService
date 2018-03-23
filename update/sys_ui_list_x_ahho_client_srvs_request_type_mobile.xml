@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_ahho_client_srvs_request_type" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_ahho_client_srvs_request_type" element="NULL" name="x_ahho_client_srvs_request_type" parent="NULL" relationship="NULL" sys_domain="global" view="17bda102fc321000666bda4bebb6635e">e2ac9ef413e44b00cb92b7a66144b08c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_id>aeac9ef413e44b00cb92b7a66144b08c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_ahho_client_srvs_request_type" element="NULL" name="x_ahho_client_srvs_request_type" parent="NULL" relationship="NULL" sys_domain="global" view="17bda102fc321000666bda4bebb6635e">e2ac9ef413e44b00cb92b7a66144b08c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_id>26ac9ef413e44b00cb92b7a66144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_ahho_client_srvs_request_type" element="NULL" name="x_ahho_client_srvs_request_type" parent="NULL" relationship="NULL" sys_domain="global" view="17bda102fc321000666bda4bebb6635e">e2ac9ef413e44b00cb92b7a66144b08c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_id>a6ac9ef413e44b00cb92b7a66144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_ahho_client_srvs_request_type" element="NULL" name="x_ahho_client_srvs_request_type" parent="NULL" relationship="NULL" sys_domain="global" view="17bda102fc321000666bda4bebb6635e">e2ac9ef413e44b00cb92b7a66144b08c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_id>2aac9ef413e44b00cb92b7a66144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instructions</element>
+            <list_id display_value="x_ahho_client_srvs_request_type" element="NULL" name="x_ahho_client_srvs_request_type" parent="NULL" relationship="NULL" sys_domain="global" view="17bda102fc321000666bda4bebb6635e">e2ac9ef413e44b00cb92b7a66144b08c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_id>aaac9ef413e44b00cb92b7a66144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_ahho_client_srvs_request_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-10 18:05:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>e2ac9ef413e44b00cb92b7a66144b08c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_client_srvs_request_type</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_list_x_ahho_client_srvs_request_type_Mobile</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-10 18:05:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">17bda102fc321000666bda4bebb6635e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

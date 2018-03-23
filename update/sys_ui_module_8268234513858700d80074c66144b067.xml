@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Price Quote">4268234513858700d80074c66144b065</application>
+        <filter/>
+        <name>Price Quotes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_ahho_client_srvs.price_quote_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-09-05 14:45:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>8268234513858700d80074c66144b067</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Price Quotes</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sys_ui_module_8268234513858700d80074c66144b067</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-09-05 14:45:58</sys_updated_on>
+        <table>x_ahho_client_srvs_price_quote</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

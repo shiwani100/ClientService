@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cust_number" label="Customer Number" language="en" table="x_ahho_client_srvs_price_quote">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cust_number</element>
+            <help/>
+            <hint/>
+            <label>Customer Number</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <plural>Customer Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-07 17:54:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a5d6e27d13450b00d80074c66144b01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Customer Number</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_documentation_x_ahho_client_srvs_price_quote_cust_number_en</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-07 17:54:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

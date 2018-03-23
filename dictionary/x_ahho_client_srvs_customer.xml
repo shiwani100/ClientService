@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Customer" max_length="40" name="x_ahho_client_srvs_customer" type="collection">
+        <element label="Additional notes" max_length="1000" name="additional_notes" type="string"/>
+        <element label="Address" max_length="100" name="address" type="string"/>
+        <element label="Ascension Affiliate" max_length="40" name="ascension_affiliate" type="boolean"/>
+        <element label="Billing address" max_length="100" name="billing_address" type="string"/>
+        <element label="Billing city" max_length="100" name="billing_city" type="string"/>
+        <element label="Billing contact name" max_length="40" name="billing_contact_name" type="string"/>
+        <element label="Billing fax" max_length="15" name="billing_fax" type="string"/>
+        <element label="Billing Name" max_length="100" name="billing_name" type="string"/>
+        <element label="Billing phone" max_length="15" name="billing_phone" type="string"/>
+        <element label="Billing state" max_length="32" name="billing_state" reference="u_us_state" type="reference"/>
+        <element label="Billing zip" max_length="10" name="billing_zip" type="string"/>
+        <element label="city" max_length="100" name="city" type="string"/>
+        <element label="Contact name" max_length="40" name="contact_name" type="string"/>
+        <element label="county" max_length="40" name="county" type="string"/>
+        <element label="Coverage Hours" max_length="40" name="coverage_hours" type="string"/>
+        <element label="Creation Request" max_length="32" name="creation_request" reference="x_ahho_client_srvs_quality_request" type="reference"/>
+        <element label="Default PM Month" max_length="40" name="default_pm_month" type="string"/>
+        <element label="Default Tech" max_length="32" name="default_tech" reference="sys_user" type="reference"/>
+        <element label="Fax" max_length="15" name="fax" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Non contract services" max_length="1000" name="non_contract_services" type="string"/>
+        <element label="Number devices" max_length="40" name="number_devices" type="string"/>
+        <element label="Office Id" max_length="40" name="office_id" type="string"/>
+        <element label="Parent Entity" max_length="32" name="parent_entity" reference="u_prod_gp_customer" type="reference"/>
+        <element label="Phone" max_length="15" name="phone" type="string"/>
+        <element label="Potential Service End Date" max_length="40" name="potential_service_end_date" type="glide_date"/>
+        <element label="Pursuing Contract" max_length="40" name="pursuing_contract" type="boolean"/>
+        <element choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice/>
+        </element>
+        <element label="Same as contact" max_length="40" name="same_as_contact" type="boolean"/>
+        <element label="Service Start Date" max_length="40" name="service_start_date" type="glide_date"/>
+        <element label="Site Manager" max_length="32" name="site_manager" reference="sys_user" type="reference"/>
+        <element label="State" max_length="32" name="state" reference="u_us_state" type="reference"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Taxable" max_length="40" name="taxable" type="boolean"/>
+        <element choice="1" label="Time Zone" max_length="40" name="time_zone" type="choice">
+            <choice/>
+        </element>
+        <element label="Type of Service" max_length="100" name="type_of_service" type="string"/>
+        <element choice="1" label="TM Customer" max_length="40" name="t_amp_m_customer" type="choice">
+            <choice/>
+        </element>
+        <element label="Unlisted Entity Name" max_length="40" name="unlisted_entity_name" type="string"/>
+        <element label="Zip" max_length="10" name="zip" type="string"/>
+        <index name="index">
+            <element name="creation_request"/>
+        </index>
+        <index name="index2">
+            <element name="billing_state"/>
+        </index>
+        <index name="index3">
+            <element name="default_tech"/>
+        </index>
+        <index name="index4">
+            <element name="parent_entity"/>
+        </index>
+        <index name="index5">
+            <element name="state"/>
+        </index>
+        <index name="index6">
+            <element name="site_manager"/>
+        </index>
+    </element>
+</database>

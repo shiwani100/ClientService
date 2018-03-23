@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="dae58c9d13c58700d80074c66144b038" sys_domain="global" table="x_ahho_client_srvs_price_quote" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>0</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f4071477130c5f00cb92b7a66144b015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cust_class</element>
+            <position>1</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>7c071477130c5f00cb92b7a66144b015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cust_number</element>
+            <position>2</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>fc071477130c5f00cb92b7a66144b015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_not_in_rsq</element>
+            <position>3</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>70071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacture_not_in_rsq</element>
+            <position>4</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f0071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_not_in_rsq</element>
+            <position>5</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>74071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_description_not_in_rsq</element>
+            <position>6</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f4071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ceid</element>
+            <position>7</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>78071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_model</element>
+            <position>8</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f8071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_manufacturer</element>
+            <position>9</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>7c071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_id</element>
+            <position>10</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>fc071477130c5f00cb92b7a66144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>11</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>70071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>12</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f0071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>13</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>74071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intended_coverage</element>
+            <position>14</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f4071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intended_strategy</element>
+            <position>15</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>78071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_on_device</element>
+            <position>16</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>f8071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>oem_quote</element>
+            <position>17</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>7c071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_quote_needed</element>
+            <position>18</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-09 15:42:46</sys_created_on>
+            <sys_id>fc071477130c5f00cb92b7a66144b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_client_srvs_price_quote" sys_domain="global" view="Default view">dae58c9d13c58700d80074c66144b038</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-05 16:54:51</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>dae58c9d13c58700d80074c66144b038</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_ahho_client_srvs_price_quote</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_section_dae58c9d13c58700d80074c66144b038</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-09 15:42:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

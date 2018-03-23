@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_ahho_client_srvs_quality_request">stateIN1,2,3,5^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2,3,5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide Priority field</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-09-01 15:26:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>3ef98bf713b80700cb92b7a66144b0fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Hide Priority field</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sys_ui_policy_3ef98bf713b80700cb92b7a66144b0fc</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-09-11 22:54:45</sys_updated_on>
+        <table>x_ahho_client_srvs_quality_request</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

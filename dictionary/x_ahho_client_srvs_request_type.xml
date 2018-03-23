@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Request type" max_length="40" name="x_ahho_client_srvs_request_type" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="category" max_length="32" name="category" reference="x_ahho_client_srvs_request_category" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Instructions" max_length="40" name="instructions" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+    </element>
+</database>

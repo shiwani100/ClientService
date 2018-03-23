@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ad6cba131364c340d80074c66144b0ad" sys_domain="global" table="item_option_new" version="3" view="client_service_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>true</is_plain_text>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>6d6cba131364c340d80074c66144b0ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <text>Variable Form Description</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6d6cba131364c340d80074c66144b0ae</element>
+            <position>0</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e56cba131364c340d80074c66144b0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>ed6cba131364c340d80074c66144b0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>map_to_field</element>
+            <position>2</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>616cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>field</element>
+            <position>3</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e16cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>record_producer_table</element>
+            <position>4</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>656cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>5</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e56cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reference_qual</element>
+            <position>6</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>696cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_title</element>
+            <position>7</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e96cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cat_item</element>
+            <position>8</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>6d6cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>ed6cba131364c340d80074c66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>10</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>616cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mandatory</element>
+            <position>11</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e16cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>12</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>656cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>13</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e56cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>global</element>
+            <position>14</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>696cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>read_roles</element>
+            <position>15</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>e96cba131364c340d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>write_roles</element>
+            <position>16</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>216c7e131364c340d80074c66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_id>a16c7e131364c340d80074c66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="item_option_new" sys_domain="global" view="2d6cba131364c340d80074c66144b0a6">ad6cba131364c340d80074c66144b0ad</sys_ui_section>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>item_option_new</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-08-18 14:48:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>ad6cba131364c340d80074c66144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>item_option_new</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_section_ad6cba131364c340d80074c66144b0ad</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-08-18 14:48:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Client Service View" name="client_service_view">2d6cba131364c340d80074c66144b0a6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

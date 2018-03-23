@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="intended_strategy" table="x_ahho_client_srvs_price_quote" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-Op</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:01:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e3873e613190740d80074c66144b079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:01:52</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Full Service OEM Contract</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9348f3e613190740d80074c66144b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:02:07</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-House Support</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:02:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6358332a13190740d80074c66144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:02:22</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Coverage</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>976877e613190740d80074c66144b07e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:02:37</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Third Party Full Service Contract</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:02:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9178732a13190740d80074c66144b06c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:02:49</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor T&amp;M</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:03:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6188bbe613190740d80074c66144b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:03:03</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>intended_strategy</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warranty</label>
+            <language>en</language>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sequence/>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:03:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a9987be613190740d80074c66144b079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-22 18:03:23</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>intended_strategy</element>
+            <name>x_ahho_client_srvs_price_quote</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-09-22 18:01:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9f506cc8dba5cb80ffd27fc88c96195c</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>intended_strategy</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_client_srvs_price_quote_intended_strategy</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-09-26 19:36:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

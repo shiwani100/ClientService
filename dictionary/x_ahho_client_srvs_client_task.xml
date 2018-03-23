@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Client Task" max_length="40" name="x_ahho_client_srvs_client_task" type="collection"/>
+</database>

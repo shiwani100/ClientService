@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Quality Request activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_ahho_client_srvs_quality_request_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-09-01 16:55:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c2cf97b713f80700cb92b7a66144b04b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_ahho_client_srvs_quality_request_activity.fields</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sys_properties_c2cf97b713f80700cb92b7a66144b04b</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-09-01 16:55:51</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,close_notes,work_notes,comments,*Attachments*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2cf97b713f80700cb92b7a66144b04b"/>
+</record_update>

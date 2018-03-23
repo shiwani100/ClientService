@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_ahho_client_srvs_quality_request" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Client Services Request - Default view" name="x_ahho_client_srvs_quality_request" related_list="NULL" sys_domain="global" view="Default view">74dcb0b113124300cb92b7a66144b0c9</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_ahho_client_srvs_client_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_id>f0dcb0b113124300cb92b7a66144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Client Services Request - Default view" name="x_ahho_client_srvs_quality_request" related_list="NULL" sys_domain="global" view="Default view">74dcb0b113124300cb92b7a66144b0c9</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_ahho_client_srvs_customer.creation_request</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_id>3cdcb0b113124300cb92b7a66144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Client Services Request - Default view" name="x_ahho_client_srvs_quality_request" related_list="NULL" sys_domain="global" view="Default view">74dcb0b113124300cb92b7a66144b0c9</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_id>30dcb0b113124300cb92b7a66144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Client Services Request - Default view" name="x_ahho_client_srvs_quality_request" related_list="NULL" sys_domain="global" view="Default view">74dcb0b113124300cb92b7a66144b0c9</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_id>34dcb0b113124300cb92b7a66144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Client Services Request - Default view" name="x_ahho_client_srvs_quality_request" related_list="NULL" sys_domain="global" view="Default view">74dcb0b113124300cb92b7a66144b0c9</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>x_ahho_client_srvs_price_quote.creation_request</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_id>38dcb0b113124300cb92b7a66144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Client Services Request - Default view</calculated_name>
+            <filter/>
+            <name>x_ahho_client_srvs_quality_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2017-11-08 13:30:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>74dcb0b113124300cb92b7a66144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Client Services Request - Default view</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_related_x_ahho_client_srvs_quality_request_null</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2017-11-08 13:30:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

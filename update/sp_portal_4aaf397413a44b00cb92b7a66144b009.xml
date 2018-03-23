@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="client_service_requests">1ba39e3613e1cf40d80074c66144b01f</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog display_value="Client Services">17e6576e1354c700d80074c66144b061</sc_catalog>
+        <sc_catalog_page display_value="client_service_requests">1ba39e3613e1cf40d80074c66144b01f</sc_catalog_page>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-08-10 16:03:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4aaf397413a44b00cb92b7a66144b009</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Client Services</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sp_portal_4aaf397413a44b00cb92b7a66144b009</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2018-01-10 17:03:40</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>Client Services</title>
+        <url_suffix>services</url_suffix>
+    </sp_portal>
+</record_update>

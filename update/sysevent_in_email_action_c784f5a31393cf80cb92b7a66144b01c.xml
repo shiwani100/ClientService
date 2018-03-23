@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description/>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>MXL - Update Client Request Accept (BP)</name>
+        <order>100</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[gs.include('validators');
+if (current.getTableName() == "x_ahho_client_srvs_quality_request") {
+	current.comments = "reply from: " + email.origemail + "\n\n" + email.body_text;
+	if (email.subject.toLowerCase().indexOf("accept solution") >= 0) {
+		gs.info('In application inbound action - State: ' + current.state, 'Inbound action');
+		current.state = 3;
+		current.resolution_code = "1";
+		current.work_notes = "The caller accepted the proposed solution";
+		current.close_notes = "The caller accepted the proposed solution";
+	}
+	
+	if (email.subject.toLowerCase().indexOf("please reopen") >= 0) {
+		current.state = 2;
+		current.work_notes = "The caller did not feel that this issue was resolved";
+		current.close_notes = "The caller did not feel that this issue was resolved";
+	}
+	if (email.body.assign != undefined)
+		current.assigned_to = email.body.assign;
+	
+	if (email.body.priority != undefined && isNumeric(email.body.priority))
+		current.priority = email.body.priority;
+	
+	if (email.body.category != undefined)
+		current.category = email.body.category;
+	
+	if (email.body.short_description != undefined)
+		current.short_description = email.body.short_description;
+	
+	current.update();
+}]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2018-01-02 21:07:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>c784f5a31393cf80cb92b7a66144b01c</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>MXL - Update Client Request Accept (BP)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sysevent_in_email_action_c784f5a31393cf80cb92b7a66144b01c</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2018-01-08 23:43:55</sys_updated_on>
+        <table>x_ahho_client_srvs_quality_request</table>
+        <template/>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>

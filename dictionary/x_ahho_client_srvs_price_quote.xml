@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Price Quote" max_length="40" name="x_ahho_client_srvs_price_quote" type="collection">
+        <element label="CEID" max_length="40" name="ceid" type="string"/>
+        <element label="Creation Request" max_length="32" name="creation_request" reference="x_ahho_client_srvs_quality_request" type="reference"/>
+        <element label="Customer" mandatory="true" max_length="40" name="customer" reference="u_prod_gp_customer" type="reference"/>
+        <element label="Customer Class" max_length="40" name="cust_class" type="string"/>
+        <element label="Customer Number" max_length="40" name="cust_number" type="string"/>
+        <element label="Date Quote Needed" mandatory="true" max_length="40" name="date_quote_needed" type="glide_date"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Device Manufacturer" mandatory="true" max_length="32" name="device_manufacturer" type="string"/>
+        <element label="Device Model" mandatory="true" max_length="32" name="device_model" reference="u_sn_equipment" type="reference"/>
+        <element label="If Device not in RSQ" max_length="40" name="device_not_in_rsq" type="boolean"/>
+        <element choice="1" label="Intended Coverage" mandatory="true" max_length="40" name="intended_coverage" type="choice">
+            <choice>
+                <element label="100% Billable" value="1"/>
+                <element label="All Parts &amp; Labor" value="2"/>
+                <element label="Documentation Only" value="3"/>
+                <element label="In-House Labor Only" value="4"/>
+                <element label="PA Labor Only" value="5"/>
+                <element label="Parts and Labor Limited Hours" value="6"/>
+            </choice>
+        </element>
+        <element choice="1" label="Intended Strategy" mandatory="true" max_length="40" name="intended_strategy" type="choice">
+            <choice>
+                <element label="Co-Op" value="1"/>
+                <element label="Full Service OEM Contract" value="2"/>
+                <element label="In-House Support" value="3"/>
+                <element label="No Coverage" value="4"/>
+                <element label="Third Party Full Service Contract" value="5"/>
+                <element label="Vendor T&amp;M" value="6"/>
+                <element label="Warranty" value="7"/>
+            </choice>
+        </element>
+        <element label="Manufacturer" max_length="40" name="manuafacture" reference="core_company" type="reference"/>
+        <element label="Manufacturer not in RSQ" max_length="40" name="manufacture_not_in_rsq" type="string"/>
+        <element label="Model" max_length="40" name="model" reference="u_rsq_model" type="reference"/>
+        <element label="Model Description not in RSQ" max_length="40" name="model_description_not_in_rsq" type="string"/>
+        <element label="Model ID" max_length="40" name="model_id" type="string"/>
+        <element label="Model not in RSQ" max_length="40" name="model_not_in_rsq" type="string"/>
+        <element label="OEM Quote" mandatory="true" max_length="40" name="oem_quote" type="string"/>
+        <element label="Quantity" mandatory="true" max_length="40" name="quantity" type="string"/>
+        <element label="Short Description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <element choice="1" label="Training on Device" mandatory="true" max_length="40" name="training_on_device" type="boolean">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="creation_request"/>
+        </index>
+        <index name="index2">
+            <element name="device_model"/>
+        </index>
+        <index name="index3">
+            <element name="model"/>
+        </index>
+        <index name="index4">
+            <element name="manuafacture"/>
+        </index>
+        <index name="index5">
+            <element name="device_manufacturer"/>
+        </index>
+        <index name="index6">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

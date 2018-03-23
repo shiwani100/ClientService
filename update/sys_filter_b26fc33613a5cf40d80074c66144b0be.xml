@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sp_page">idSTARTSWITH^idISNOTEMPTY^EQ<item endquery="false" field="id" goto="false" newquery="false" operator="STARTSWITH" or="false" value=""/>
+            <item endquery="false" field="id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2017-12-13 19:45:44</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-10-05 19:57:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>b26fc33613a5cf40d80074c66144b0be</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sys_filter_b26fc33613a5cf40d80074c66144b0be</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-12-13 19:45:44</sys_updated_on>
+        <table>sp_page</table>
+        <title>mobile</title>
+        <user display_value="Shiwani Upadhyay">805c59064fa30a4064dd0f1f0310c74a</user>
+    </sys_filter>
+</record_update>

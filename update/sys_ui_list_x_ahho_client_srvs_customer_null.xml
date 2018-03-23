@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_ahho_client_srvs_customer" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>c38ba151134c1300cb92b7a66144b06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>additional_notes</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>5b8ba151134c1300cb92b7a66144b06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>db8ba151134c1300cb92b7a66144b06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ascension_affiliate</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>5f8ba151134c1300cb92b7a66144b06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_address</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>df8ba151134c1300cb92b7a66144b06e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_city</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>538ba151134c1300cb92b7a66144b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_contact_name</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>d38ba151134c1300cb92b7a66144b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_fax</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>578ba151134c1300cb92b7a66144b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_name</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>d78ba151134c1300cb92b7a66144b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>billing_phone</element>
+            <list_id display_value="x_ahho_client_srvs_customer" element="NULL" name="x_ahho_client_srvs_customer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0b8ba151134c1300cb92b7a66144b06d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_id>5b8ba151134c1300cb92b7a66144b06f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_ahho_client_srvs_customer</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sxUpadhyay</sys_created_by>
+            <sys_created_on>2018-02-02 03:27:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>0b8ba151134c1300cb92b7a66144b06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_client_srvs_customer</sys_name>
+            <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+            <sys_update_name>sys_ui_list_x_ahho_client_srvs_customer_null</sys_update_name>
+            <sys_updated_by>sxUpadhyay</sys_updated_by>
+            <sys_updated_on>2018-02-02 03:27:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

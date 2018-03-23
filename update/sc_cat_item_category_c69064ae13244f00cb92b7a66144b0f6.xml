@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Customer">c56c3f1613e04f00cb92b7a66144b0e0</sc_cat_item>
+        <sc_category display_value="Client services">84aed3e21394c700d80074c66144b051</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-08-15 19:32:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c69064ae13244f00cb92b7a66144b0f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client services.Customer Creation</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>sc_cat_item_category_c69064ae13244f00cb92b7a66144b0f6</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-08-15 19:32:27</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

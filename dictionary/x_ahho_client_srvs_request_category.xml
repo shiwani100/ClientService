@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Request category" max_length="40" name="x_ahho_client_srvs_request_category" type="collection">
+        <element label="Active" max_length="40" name="active" type="string"/>
+        <element label="created" max_length="40" name="created" type="glide_date_time"/>
+        <element label="Created By" max_length="40" name="created_by" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+        <element label="Updated by" max_length="40" name="updated_by" type="string"/>
+        <element label="Updates" max_length="40" name="updates" type="integer"/>
+    </element>
+</database>

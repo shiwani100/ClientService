@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Customer Updates">edc597aa1354c700d80074c66144b071</catalog_item>
+        <catalog_variable>IO:bb29bdfe13608f00cb92b7a66144b05a</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>sxUpadhyay</sys_created_by>
+        <sys_created_on>2017-08-16 20:40:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>83b9f13213a08f00cb92b7a66144b0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment</sys_name>
+        <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_83b9f13213a08f00cb92b7a66144b0ba</sys_update_name>
+        <sys_updated_by>sxUpadhyay</sys_updated_by>
+        <sys_updated_on>2017-08-16 20:40:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Attachment Macro">f389bdfe13608f00cb92b7a66144b0b9</ui_policy>
+        <variable>attachment</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

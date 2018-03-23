@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="User" max_length="40" name="x_ahho_client_srvs_user" type="collection"/>
+</database>
