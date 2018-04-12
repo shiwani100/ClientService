@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Client Services Request" max_length="40" name="x_ahho_client_srvs_quality_request" sizeclass="359" type="collection">
+    <element audit="true" extends="task" label="Client Services Request" max_length="40" name="x_ahho_client_srvs_quality_request" sizeclass="398" type="collection">
         <element label="Category" mandatory="true" max_length="32" name="category" reference="x_ahho_client_srvs_request_category" type="reference"/>
         <element label="Customer" max_length="32" name="customer" reference="u_prod_gp_customer" type="reference"/>
         <element label="Customer" max_length="40" name="customer_1" type="string"/>
