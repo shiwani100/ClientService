@@ -40,7 +40,7 @@
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <roles/>
-        <sc_catalogs>17e6576e1354c700d80074c66144b061</sc_catalogs>
+        <sc_catalogs>1bf91c2b139e9700d80074c66144b0dd,17e6576e1354c700d80074c66144b061</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script><![CDATA[current.assignment_group.setDisplayValue('Client Services');

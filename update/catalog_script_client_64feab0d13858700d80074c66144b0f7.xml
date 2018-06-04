@@ -23,7 +23,7 @@
    }
 function doModelNumber(caller)
 	{
-     g_form.setValue('model_Id', caller.u_item_number);
+     g_form.setValue('model_Id', caller.u_model);
      g_form.setReadOnly('model_Id',true);
      g_form.setValue('description', caller.u_item_description);
      g_form.setReadOnly('description',true);
@@ -38,10 +38,10 @@ function doModelNumber(caller)
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>sxUpadhyay</sys_created_by>
         <sys_created_on>2017-09-05 15:20:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>64feab0d13858700d80074c66144b0f7</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Model info auto populate</sys_name>
         <sys_overrides/>
         <sys_package display_value="Client Services" source="x_ahho_client_srvs">a155444e13544700d80074c66144b063</sys_package>
@@ -50,7 +50,7 @@ function doModelNumber(caller)
         <sys_scope display_value="Client Services">a155444e13544700d80074c66144b063</sys_scope>
         <sys_update_name>catalog_script_client_64feab0d13858700d80074c66144b0f7</sys_update_name>
         <sys_updated_by>sxUpadhyay</sys_updated_by>
-        <sys_updated_on>2018-02-13 17:06:40</sys_updated_on>
+        <sys_updated_on>2018-05-29 19:25:33</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Price Quote" max_length="40" name="x_ahho_client_srvs_price_quote" type="collection">
-        <element label="CEID" max_length="40" name="ceid" type="string"/>
+        <element active="false" label="CEID" max_length="40" name="ceid" type="string"/>
         <element label="Creation Request" max_length="32" name="creation_request" reference="x_ahho_client_srvs_quality_request" type="reference"/>
         <element label="Customer" mandatory="true" max_length="40" name="customer" reference="u_prod_gp_customer" type="reference"/>
         <element label="Customer Class" max_length="40" name="cust_class" type="string"/>
@@ -9,7 +9,7 @@
         <element label="Date Quote Needed" mandatory="true" max_length="40" name="date_quote_needed" type="glide_date"/>
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Device Manufacturer" mandatory="true" max_length="32" name="device_manufacturer" type="string"/>
-        <element label="Device Model" mandatory="true" max_length="32" name="device_model" reference="u_sn_equipment" type="reference"/>
+        <element label="CEID" mandatory="true" max_length="32" name="device_model" reference="u_sn_equipment" type="reference"/>
         <element label="If Device not in RSQ" max_length="40" name="device_not_in_rsq" type="boolean"/>
         <element choice="1" label="Intended Coverage" mandatory="true" max_length="40" name="intended_coverage" type="choice">
             <choice>
